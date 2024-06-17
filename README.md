@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rushiharkal1
-- 👀 I’m interested in Programming and Game-Development.
+- 👀 I’m interested in Programming & Game-Development.
 - 🌱 I’m currently learning Game-Development and Banking.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
