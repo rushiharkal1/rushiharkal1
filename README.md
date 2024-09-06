@@ -5,7 +5,7 @@
 </p>
 
 <!-- Profile Picture -->
-<p align="left">
+<p align="center">
 	<a href="https://github.com/rushiharkal1">
 		  <img src="https://avatars.githubusercontent.com/u/171824289?v=4" alt="Profile Picture" width="150" height="150" style="border-radius:50%;" />
 	</a>
