@@ -1,7 +1,7 @@
 
 <!-- Github Banner -->
 <p align="center">
-  <img src="https://inkscape.org/gallery/item/15318/view/" alt="Banner" />
+  <img src="https://inkscape.org/gallery/item/12639/view/" alt="Banner" />
 </p>
 
 <!-- Profile Picture -->
