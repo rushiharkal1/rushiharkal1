@@ -1,7 +1,7 @@
 
 <!-- Github Banner -->
 <p align="center">
-  <img src="https://pbs.twimg.com/media/GWvX1mWa8AUMzbT?format=png&name=large" alt="Banner" />
+  <img src="https://www.pexels.com/photo/technology-computer-desktop-programming-113850" alt="Banner" />
 </p>
 
 <!-- Profile Picture -->
