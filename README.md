@@ -5,7 +5,7 @@
 
 <!-- Profile Picture -->
 <p align="center">
-	<a href="https://github.com/rushiharkal1">
+	<a href="https://github.com/rushiharkal1" target="_blank" rel="noopener noreferrer">
 		  <img src="https://avatars.githubusercontent.com/u/171824289?v=4" alt="Profile Picture" width="150" height="150" style="border-radius:50%;" />
 	</a>
 </p>
@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rushiharkal1&theme=onedark" alt="rushiharkal1" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank" rel="noopener noreferrer"><img src="https://github-profile-trophy.vercel.app/?username=rushiharkal1&theme=onedark" alt="rushiharkal1" /></a>
 </p>  
 
 ---
@@ -32,7 +32,7 @@
     <li>🔭 I’m currently working on <strong>a secret portfolio website for my upcoming business</strong>.</li>
     <li>🌱 I’m currently learning the <strong>React library</strong> to expand my web development skills.</li>
     <li>👯 I’m open to collaborating on <strong>game development and web development projects</strong>.</li>
-    <li>👨‍💻 Check out all of my projects on <a href="https://github.com/rushiharkal1"><strong>my GitHub</strong></a>.</li>
+    <li>👨‍💻 Check out all of my projects on <a href="https://github.com/rushiharkal1" target="_blank" rel="noopener noreferrer"><strong>my GitHub</strong></a>.</li>
     <li>💬 Feel free to ask me about <strong>Godot, Python, OpenCV, and Web Development</strong>—I’m always happy to share knowledge!</li>
     <li>⚡ Fun fact: <strong>Programming is easier than English grammar, isn't it? Or is it? 😄</strong></li>
   </ul>
@@ -43,11 +43,11 @@
 <details open>
   <summary><h2>📞 Contact Me</h2></summary>
   <ul>
-    <li>💼 LinkedIn: <a href="https://in.linkedin.com/in/rushikesh-harkal-051518328">Rushikesh Harkal</a></li>
-    <li>📱 GitHub: <a href="https://github.com/rushiharkal1">rushiharkal1</a></li>
-    <li>🎮 itch.io: <a href="https://harkal.itch.io/">My itch.io Profile</a></li>
-    <li>📊 Kaggle: <a href="https://www.kaggle.com/rushiharkal1">Rushikesh Harkal</a></li>
-    <li>📍 Pinterest: <a href="https://www.pinterest.com/rushiharkal1/">Rushikesh Harkal</a></li>
+    <li>💼 LinkedIn: <a href="https://in.linkedin.com/in/rushikesh-harkal-051518328" target="_blank" rel="noopener noreferrer">Rushikesh Harkal</a></li>
+    <li>📱 GitHub: <a href="https://github.com/rushiharkal1" target="_blank" rel="noopener noreferrer">rushiharkal1</a></li>
+    <li>🎮 itch.io: <a href="https://harkal.itch.io/" target="_blank" rel="noopener noreferrer">My itch.io Profile</a></li>
+    <li>📊 Kaggle: <a href="https://www.kaggle.com/rushiharkal1" target="_blank" rel="noopener noreferrer">Rushikesh Harkal</a></li>
+    <li>📍 Pinterest: <a href="https://www.pinterest.com/rushiharkal1/" target="_blank" rel="noopener noreferrer">Rushikesh Harkal</a></li>
   </ul>
 </details>
 
