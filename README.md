@@ -58,7 +58,7 @@
 
 <h3>🔥 Streak Stats</h3>
 <p align="center">
-	<img src="https://github-readme-streak-stats-ecru.vercel.app?user=rushiharkal1&theme=transparent&card_width=500&card_height=200&stroke=FF5B5B&dates=00CBA4&ring=EB5454" alt="GitHub Streak" />
+	<img src="https://streak-stats.demolab.com/?user=rushiharkal1&theme=transparent&card_width=500&card_height=200&stroke=FF5B5B&dates=00CBA4&ring=EB5454" alt="GitHub Streak" />
 </p>
 
 <h3>💻 GitHub Profile Stats</h3>
